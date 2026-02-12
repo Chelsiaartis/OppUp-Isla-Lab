@@ -1,9 +1,0 @@
-project:
-  type: website
-  output-dir: docs
-
-project-exclude:
-  - "*.qmd"
-  - "*.csv"
-  - "*.xlsx"
-  - "data/"
