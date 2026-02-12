@@ -1,0 +1,6 @@
+---
+title: "Home"
+---
+
+# Welcome to the Lab
+This is the home page for the ISLA Lab project.
